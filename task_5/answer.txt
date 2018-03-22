@@ -1,4 +1,4 @@
-I will use it for further development of projects:
+I will use it for development of projects:
 -- The Headers tab display 
 -- Preview tab
 -- Response tab
