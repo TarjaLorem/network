@@ -1,0 +1,38 @@
+Cache-Control:
+Specifies directives for caching mechanisms in both requests and responses.
+
+Content-Encoding:
+Used to specify the compression algorithm.
+
+Content-Security-Policy (CSP):
+Controls resources the user agent is allowed to load for a given page.
+
+Content-Type:
+Indicates the media type of the resource.
+
+Date: 
+date, time
+
+Expect-CT:
+Allows sites to opt in to reporting and/or enforcement of Certificate Transparency requirements, which prevents the use of misissued certificates for that site from going unnoticed. When a site enables the Expect-CT header, they are requesting that Chrome check that any certificate for that site appears in public CT logs.
+
+Referrer-Policy:
+Governs which referrer information sent in the Referer header should be included with requests made.
+
+Server:
+Contains information about the software used by the origin server to handle the request.
+
+Set-Cookie:
+Send cookies from the server to the user agent.
+
+Transfer-Encoding:
+These headers are meaningful only for a single transport-level connection and must not be retransmitted by proxies or cached.
+
+Vary:
+Determines how to match future request headers to decide whether a cached response can be used rather than requesting a fresh one from the origin server.
+
+X-Content-Type-Options:
+Disables MIME sniffing and forces browser to use the type given in Content-Type.
+
+X-Frame-Options (XFO):
+Indicates whether a browser should be allowed to render a page in a <frame>, <iframe> or <object>
