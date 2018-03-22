@@ -1,0 +1,7 @@
+https://shafa.ua/login?next=/
+https://uk-ua.facebook.com/r.php
+https://adobeid-na1.services.adobe.com/renga-idprovider/pages/create_account?callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2FBehanceWebSusi1%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.behance.net%252Fauth%252Flogin%253Fdestination%253D%252Fonboarding%2523from_ims%253Dtrue%2526old_hash%253D%2526api%253Dauthorize%26state%3D%257B%2522ac%2522%253A%2522behance.net%2522%257D&client_id=BehanceWebSusi1&scope=AdobeID%2Copenid%2Cgnav%2Csao.cce_private%2Ccreative_cloud%2Ccreative_sdk%2Cbe.pro2.external_client%2Cadditional_info.roles&denied_callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fdenied%2FBehanceWebSusi1%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.behance.net%252Fauth%252Flogin%253Fdestination%253D%252Fonboarding%2523from_ims%253Dtrue%2526old_hash%253D%2526api%253Dauthorize%26response_type%3Dtoken%26state%3D%257B%2522ac%2522%253A%2522behance.net%2522%257D&display=web_v2&state=%7B%22ac%22%3A%22behance.net%22%7D&relay=c10fa8a4-3b4f-4ded-b856-be59fb0cddbe&locale=en_US&flow_type=token&idp_flow_type=create_account&el=true
+https://bill.lviv.ua/main.php
+https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent
+
+We use this method because sites use sending forms. The data will be logged and sent to the server.

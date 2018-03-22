@@ -1,0 +1,10 @@
+I will use it for further development of projects:
+-- The Headers tab display 
+-- Preview tab
+-- Response tab
+-- Filters
+
+I was interested in the principle DevTools recording, but I'm not sure I'll be using it somewhere.
+In Headers I can watch information of headers associated with the resource.
+I'm interested Preview, because Previews tab shows me information about JSON, image, and text resources.
+Maybe Response. I can watch information of HTTP response data (if any).
